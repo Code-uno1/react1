@@ -1,0 +1,1 @@
+# I tried to write some js and i don't know shit
